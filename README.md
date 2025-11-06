@@ -6,7 +6,7 @@
 - [NMEA Methodology](/NMEA/Data_Analysis)
 - [Computer Triage Background](/Computer_Triage)
 - [Computer Triage Methodology](/Computer_Triage)
-- Tools
+- Set-Up and Tools
   - [Raspberry Pi](/Set_Up/Raspberry_Pi)
 
 ## Flow Chart
