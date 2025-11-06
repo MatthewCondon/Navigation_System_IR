@@ -7,6 +7,10 @@ At the core of NMEA 2000 lies the CAN bus protocol—originally developed for au
 
 The NMEA 2000 network connects to individual devices using drop cables directly plugged into the backbone. These cables are responsible for carrying power and data between nodes. As a result of this architecture, the data can be broadcast across the network so that all devices can passively monitor relevant information. This enables future scalability of the system, so new devices may be added with minimal configuration. This includes additional devices such as computers.
 
+An example diagram is pictured below:
+<img width="860" height="419" alt="image" src="https://github.com/user-attachments/assets/c365e620-9813-49fe-930e-9abc0b1111b9" />
+
+
 # Data Formats
 There are three formats for data that investigators need to work with.
 
